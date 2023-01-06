@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Devanagari:wght@200&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Anek Devanagari', sans-serif;
+
+}
+
+.row {
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+    display: flex;
+    margin: 70px auto;
+    box-shadow: 5px 5px 20px #d2cdcd;
+    border-radius: 10px;
+}
+
+.connectwith-us {
+    padding: 20px;
+    width: 400px;
+    height: 433px;
+    text-align: center;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#signin-section {
+    padding: 30px;
+    text-shadow: 10px;
+    background-color: rgb(41, 243, 41);
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.header h1 {
+    margin: 20px;
+    text-shadow: 20px;
+    color:white;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+.description p {
+    margin: 20px;
+    font-size: 20px;
+    color: white;
+}
+.submit-btn1{
+    color: white;
+    font-weight:600;
+    padding: 7px 20px;
+    letter-spacing: 10px;
+    border: 2px solid  white;
+    border-radius: 20px;
+    background-color: rgb(41, 243, 41);   
+}
+
+
+#creataccount-section {
+    padding: 20px;
+    background-color:white;
+    
+}
+
+#creataccount-section h2 {
+    font-size: 40px;
+    font-weight: 900;
+    text-shadow: 20px;
+    color:rgb(41, 243, 41);
+}
+
+.icon {
+    margin: 15px;
+}
+
+.icon-facebook {
+    color: rgb(41, 243, 41);
+    border: 2px solid rgb(252, 246, 246);
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.icon-twitter {
+    color: rgb(41, 243, 41);
+    border: 2px solid rgb(252, 246, 246);
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.icon-instagram {
+    color: rgb(41, 243, 41);
+    border: 2px solid rgb(252, 246, 246);
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.anothermethod-text {
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.form-control {
+    margin: 3px;
+    padding: 8px;
+    border: 1px solid  rgb(41, 243, 41) ;
+    border-radius: 20px;
+}
+
+.signupbutton {
+    margin: 20px;
+}
+
+.submit-btn {
+    color: rgb(41, 243, 41);
+    font-weight: 600;
+    padding: 7px 20px;
+    letter-spacing: 10px;
+    border: 2px solid rgb(41, 243, 41);
+    border-radius: 20px;
+}
